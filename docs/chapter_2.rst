@@ -196,9 +196,9 @@ In this folder there will be many new files:
   And finally a module that contains tests for your custom content-type.
 
 We will not go into details of what each test does as we believe the test code
-and its comments are in themselves informative and we will rather encourage you
-to go through all tests, try to understand what they do, maybe change something
-and see what happens, etc.
+and its comments are self-explanatory. We will encourage you to review all the
+tests, try to understand what they do, maybe change something and see what 
+happens, etc.
 
 Remember that you run tests with ``bin/test`` and you should get an output that
 looks somewhat like this:
